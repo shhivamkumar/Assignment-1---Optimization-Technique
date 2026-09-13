@@ -1,0 +1,117 @@
+Iteration 1
+
+
+Basic variables:
+s1 = 30.0000
+a2 = 20.0000
+a3 = 25.0000
+
+Cj - Zj:
+  x1 : 2000007.0000
+  x2 : 3000005.0000
+  x3 : 4000004.0000
+  s1 : 0.0000
+  s2 : -1000000.0000
+  a2 : 0.0000
+  a3 : 0.0000
+
+Entering variable: x3
+Leaving variable: a3
+
+
+Iteration 2
+
+
+Basic variables:
+s1 = 21.6667
+a2 = 11.6667
+x3 = 8.3333
+
+Cj - Zj:
+  x1 : 666672.3333
+  x2 : 1666670.3333
+  x3 : 0.0000
+  s1 : 0.0000
+  s2 : -1000000.0000
+  a2 : 0.0000
+  a3 : -1333334.6667
+
+Entering variable: x2
+Leaving variable: a2
+
+
+Iteration 3
+
+
+Basic variables:
+s1 = 17.0000
+x2 = 7.0000
+x3 = 6.0000
+
+Cj - Zj:
+  x1 : 4.2000
+  x2 : 0.0000
+  x3 : 0.0000
+  s1 : 0.0000
+  s2 : 2.2000
+  a2 : -1000002.2000
+  a3 : -1000000.6000
+
+Entering variable: x1
+Leaving variable: s1
+
+
+Iteration 4
+
+
+Basic variables:
+x1 = 12.1429
+x2 = 2.1429
+x3 = 3.5714
+
+Cj - Zj:
+  x1 : 0.0000
+  x2 : 0.0000
+  x3 : 0.0000
+  s1 : -3.0000
+  s2 : 1.0000
+  a2 : -1000001.0000
+  a3 : -1000000.0000
+
+Entering variable: s2
+Leaving variable: x3
+
+
+Iteration 5
+
+
+Basic variables:
+x1 = 5.0000
+x2 = 20.0000
+s2 = 25.0000
+
+Cj - Zj:
+  x1 : 0.0000
+  x2 : 0.0000
+  x3 : -7.0000
+  s1 : -2.0000
+  s2 : 0.0000
+  a2 : -1000000.0000
+  a3 : -1000003.0000
+
+
+Final Solution
+
+
+x1 = 5.0000
+x2 = 20.0000
+x3 = 0.0000
+s1 = 0.0000
+s2 = 25.0000
+a2 = 0.0000
+a3 = 0.0000
+
+Maximum objective value = 135.0
+
+All artificial variables are zero.
+Hence the solution is feasible and optimal.
